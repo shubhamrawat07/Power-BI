@@ -1,15 +1,1 @@
 ![Dashboard Screenshot](https://github.com/shubhamrawat07/Power-BI/blob/main/Honda%20Revenue%20Dashboard/Screenshot%202026-02-08%20084450.png)
-
-Honda Revenue Dashboard
-
-Power BI Sales Performance Dashboard (Honda – Sample Data)
-Built an interactive Power BI dashboard analyzing revenue, profit, growth %, and dealer performance
-Implemented DAX measures for revenue growth, profit margin, and target achievement
-Used star schema with Date dimension for time intelligence analysis
-Designed executive-level KPIs with slicers for city and car model
-Enabled business insights on top-performing models and dealers
-
-
-Used a Gauge visual with a dynamic Target Achievement % measure to compare actual revenue against predefined targets.
-
-Used dynamic DAX-based titles to convert visuals into insight-driven stories that update automatically with filters.
