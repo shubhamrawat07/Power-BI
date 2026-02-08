@@ -1,4 +1,5 @@
-![Dashboard Screenshot](Honda%20Revenue%20Dashboard/Screenshot 2026-02-08 084450.png)
+![Dashboard Screenshot](https://github.com/shubhamrawat07/Power-BI/blob/main/Honda%20Revenue%20Dashboard/Screenshot%202026-02-08%20084450.png)
+
 Honda Revenue Dashboard
 
 Power BI Sales Performance Dashboard (Honda – Sample Data)
