@@ -1,3 +1,4 @@
+![Dashboard Screenshot](Honda%20Revenue%20Dashboard/Screenshot 2026-02-08 084450.png)
 Honda Revenue Dashboard
 
 Power BI Sales Performance Dashboard (Honda – Sample Data)
